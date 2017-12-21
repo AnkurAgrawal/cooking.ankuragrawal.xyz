@@ -1,0 +1,33 @@
+{
+  "name": "cooking",
+  "version": "2.0.3",
+  "description": "A jekyll website for sharing my cooking",
+  "main": "npmfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkurAgrawal/cooking.ankuragrawal.xyz.git"
+  },
+  "keywords": [
+    "cooking",
+    "jekyll",
+    "website",
+    "template",
+    "website template",
+    "portfolio",
+    "portfolio website"
+  ],
+  "author": "Ankur Agrawal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnkurAgrawal/cooking.ankuragrawal.xyz/issues"
+  },
+  "homepage": "https://github.com/AnkurAgrawal/cooking.ankuragrawal.xyz#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-image-resize": "^0.12.0"
+  }
+}

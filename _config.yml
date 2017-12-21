@@ -1,0 +1,26 @@
+# Base configs
+baseurl: ""
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+cdn_path_hd: http://res.cloudinary.com/ankuragrawal/image/upload/f_auto,q_auto,w_auto/cooking/
+cdn_path_thumbnail: 'https://res.cloudinary.com/ankuragrawal/image/upload/t_media_lib_thumb/f_auto,q_auto,w_auto,c_scale/cooking/'
+
+google_analytics: "UA-102358856-4"
+
+image_meta:
+  copyright: © Ankur Agrawal
+
+# UI configs
+title: "Curious Tongue"
+subtitle: "Explore the tastes in the world!"
+author: "Ankur Agrawal"
+bio: "I am a Wildcard with a passion for exploring the variety of taste in the world to get inspiration for designing interfaces."
+publicise: ""
+web_design: ""
+social_urls:
+  facebook: "https://www.facebook.com/imankuragrawal"
+  twitter: "https://www.twitter.com/iamankuragrawal"
+  instagram: "https://www.instagram.com/iamankuragrawal"
+  dribbble: "https://dribbble.com/iamankuragrawal"
+  linkedin: "https://in.linkedin.com/in/iamankuragrawal"
+  github: "https://www.github.com/iamankuragrawal"
